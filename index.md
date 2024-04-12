@@ -10,19 +10,19 @@ Check out the [Project Website](https://medhaupadhyay.github.io/Micropayment-Cha
 
 <details>
 <summary>Goodreads Recommender System</summary>
-<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/56c7f3ab-0128-4e8b-b57c-1f447fb6c79b" style="height:400px;">
-<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/f9d1cdac-06e2-4ea4-bf5d-8ce00ad02fa2" style="height:400px;">
- <img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/edbe09fa-55db-4ed4-93a6-5f176b903d13" style="height:400px;">
- <img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/df07aee6-e502-43a3-9046-f099a7f35091" style="height:400px;">
- <img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/328dd6e2-120a-4731-9db2-ec671415ef19" style="height:400px;">
- <img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/b8a2d88a-a6a6-4c7b-8022-7efcfb1be5e2" style="height:400px;">
- <img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/0670e8ed-6a0f-41b6-bf67-ac8895bddb9f" style="height:400px;">
- <img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/20f40eae-2dbf-44a0-8e4a-9e89659ce6e1" style="height:400px;">
-  <img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/c45231df-8faf-4700-a6b7-c8292932457d" style="height:400px;">
- <img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/eeaec8fa-f11d-4523-a623-0e2d4785225d" style="height:400px;">
- <img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/652834a2-7d2d-4acc-9661-749d351f19b7" style="height:400px;">
- <img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/b88199e2-5270-42c7-b4ca-011e15414397" style="height:400px;">
- <img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/ba95b7c4-d58a-4a1a-b8af-f084b03f2181" style="height:400px;">
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/56c7f3ab-0128-4e8b-b57c-1f447fb6c79b">
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/f9d1cdac-06e2-4ea4-bf5d-8ce00ad02fa2">
+ <img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/edbe09fa-55db-4ed4-93a6-5f176b903d13">
+ <img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/df07aee6-e502-43a3-9046-f099a7f35091">
+ <img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/328dd6e2-120a-4731-9db2-ec671415ef19">
+ <img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/b8a2d88a-a6a6-4c7b-8022-7efcfb1be5e2">
+ <img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/0670e8ed-6a0f-41b6-bf67-ac8895bddb9f">
+ <img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/20f40eae-2dbf-44a0-8e4a-9e89659ce6e1">
+  <img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/c45231df-8faf-4700-a6b7-c8292932457d">
+ <img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/eeaec8fa-f11d-4523-a623-0e2d4785225d" >
+ <img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/652834a2-7d2d-4acc-9661-749d351f19b7" >
+ <img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/b88199e2-5270-42c7-b4ca-011e15414397" >
+ <img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/ba95b7c4-d58a-4a1a-b8af-f084b03f2181" >
  
  <br></details>
 
