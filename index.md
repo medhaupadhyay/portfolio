@@ -1,9 +1,3 @@
-
-# Introduction 
-about me?
-<br>
-
-
 # Data Science Projects 
 <details>
 <summary> Franklin Templeton Cryptocurrency Micropayment channel </summary>
