@@ -4,6 +4,7 @@
  
 Check out the [Project Website](https://medhaupadhyay.github.io/Micropayment-Channel-Public-Website/)!
 
+<br>
 <img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/f4406e0b-a3d1-44b2-8044-a816f608e366">
 <br> </details>
 
@@ -29,24 +30,24 @@ Check out the [Project Website](https://medhaupadhyay.github.io/Micropayment-Cha
 
 <details>
 <summary>Zscaler Interesting Events Diagnosis</summary>
-<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/3e7a37b2-e0bf-485e-9307-7003df74ca09" style="height:400px;">
-<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/bab4269a-8992-4e54-993a-e9cbd2f14dad" style="height:400px;">
-<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/80ec5112-b085-4e81-b947-308d72be2deb" style="height:400px;">
-<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/b5ff1312-cb0c-4dcb-be4f-70b08fb23794" style="height:400px;">
-<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/8377e130-0048-4e38-884b-6d5b31f3918b" style="height:400px;">
-<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/31d41596-c219-45e7-b496-5bd5ccc1fd5b" style="height:400px;">
-<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/78ea7bb3-1e6c-475a-bc5e-e6be57eab4d5" style="height:400px;">
-<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/3619884a-7c59-41f9-9676-23f4c8217e94" style="height:400px;">
-<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/b98f1b94-94a9-425e-bcd9-ed8f23ef38ea" style="height:400px;">
-<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/30c8d5bf-6ec4-4835-87f8-bc565bc744bc" style="height:400px;">
-<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/abdd3720-24db-44c9-adfd-964558c3aac6" style="height:400px;">
-<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/67c20db9-f880-4ea6-867a-a916bfe781d2" style="height:400px;">
-<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/c12fbcbc-278f-4ab0-8b60-5c423b9dc8e5" style="height:400px;">
-<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/f254f210-0652-496b-a125-57835617022c" style="height:400px;">
-<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/5796829a-c8a9-41f5-b62a-9bc7da5a76b1" style="height:400px;">
-<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/6f57f1dc-5d8f-467a-9bdc-73d6e42d67c1" style="height:400px;">
-<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/51817dbb-e72b-45a4-896d-fc2ce0a79319" style="height:400px;">
-<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/3e4c7444-2033-465e-ac92-05a1f508e46f" style="height:400px;">
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/3e7a37b2-e0bf-485e-9307-7003df74ca09">
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/bab4269a-8992-4e54-993a-e9cbd2f14dad" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/80ec5112-b085-4e81-b947-308d72be2deb" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/b5ff1312-cb0c-4dcb-be4f-70b08fb23794" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/8377e130-0048-4e38-884b-6d5b31f3918b" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/31d41596-c219-45e7-b496-5bd5ccc1fd5b" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/78ea7bb3-1e6c-475a-bc5e-e6be57eab4d5" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/3619884a-7c59-41f9-9676-23f4c8217e94" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/b98f1b94-94a9-425e-bcd9-ed8f23ef38ea" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/30c8d5bf-6ec4-4835-87f8-bc565bc744bc" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/abdd3720-24db-44c9-adfd-964558c3aac6" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/67c20db9-f880-4ea6-867a-a916bfe781d2" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/c12fbcbc-278f-4ab0-8b60-5c423b9dc8e5" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/f254f210-0652-496b-a125-57835617022c" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/5796829a-c8a9-41f5-b62a-9bc7da5a76b1" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/6f57f1dc-5d8f-467a-9bdc-73d6e42d67c1" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/51817dbb-e72b-45a4-896d-fc2ce0a79319" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/3e4c7444-2033-465e-ac92-05a1f508e46f" >
 
 
  <br></details>
@@ -54,17 +55,17 @@ Check out the [Project Website](https://medhaupadhyay.github.io/Micropayment-Cha
 
 <details>
 <summary>Waste Disposal Algorithm</summary>
-<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/6c8e421a-7ef2-41ba-acc9-6d90be32507b" style="height:400px;">
-<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/4eb88d61-f5fa-4612-a12f-b61c75856a7a" style="height:400px;">
-<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/1e3cd897-26b6-4c3b-8bd6-39241bbe40ca" style="height:400px;">
-<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/57031355-996a-4b7e-af4d-ee0affd74e19" style="height:400px;">
-<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/273c9106-66f1-4ff3-8c72-e2b46b3133ee" style="height:400px;">
-<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/a8ff1f23-bd20-41e7-93ff-46032a43bbf0" style="height:400px;">
-<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/9f752ac3-7504-44fc-93cb-48d572f367ad" style="height:400px;">
-<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/b36394b1-933a-4c61-920e-20414a4a66d2" style="height:400px;">
-<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/c8ab7d61-490a-49ad-b7a2-719bba4a0a39" style="height:400px;">
-<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/3d42e23b-7e61-4cf8-a1b5-776e0d1613ae" style="height:400px;">
-<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/152c2a30-a70e-4d85-a3e6-3edfffea2fe2" style="height:400px;">
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/6c8e421a-7ef2-41ba-acc9-6d90be32507b" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/4eb88d61-f5fa-4612-a12f-b61c75856a7a" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/1e3cd897-26b6-4c3b-8bd6-39241bbe40ca" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/57031355-996a-4b7e-af4d-ee0affd74e19" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/273c9106-66f1-4ff3-8c72-e2b46b3133ee" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/a8ff1f23-bd20-41e7-93ff-46032a43bbf0" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/9f752ac3-7504-44fc-93cb-48d572f367ad" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/b36394b1-933a-4c61-920e-20414a4a66d2" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/c8ab7d61-490a-49ad-b7a2-719bba4a0a39" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/3d42e23b-7e61-4cf8-a1b5-776e0d1613ae" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/152c2a30-a70e-4d85-a3e6-3edfffea2fe2" >
  
  <br>
 </details>
