@@ -52,7 +52,6 @@ about
 
 <details>
 <summary>Waste Disposal Algorithm</summary>
-Check out the [demo](https://akashpalla.github.io/SYN100_test/)!
  <br>
 </details>
 <br>
