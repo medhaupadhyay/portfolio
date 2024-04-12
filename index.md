@@ -80,7 +80,7 @@ about
 <summary> LA Memorial Coliseum Value Add </summary>
 about 
  <br>
- <br></details>
+ <br></details> <br>
 
 # Articles 
 <details>
