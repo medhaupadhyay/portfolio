@@ -1,10 +1,6 @@
 # Data Science Projects 
 <details>
-<summary> Franklin Templeton Cryptocurrency Micropayment channel </summary>
- 
-Check out the [Project Website](https://medhaupadhyay.github.io/Micropayment-Channel-Public-Website/)!
-
-<br>
+<summary>Franklin Templeton Cryptocurrency Micropayment Channel <a href="https://medhaupadhyay.github.io/Micropayment-Channel-Public-Website/"> (Project Website!)</a></summary>
 <img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/f4406e0b-a3d1-44b2-8044-a816f608e366">
 <br> </details>
 
