@@ -82,7 +82,7 @@ about
  <br>
  <br></details>
 
- # Articles 
+# Articles 
 <details>
 <summary> UC San Diego’s Acceptance of Controversial TikToker shows Administration’s Disregard Toward Indian Women </summary>
 about 
