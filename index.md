@@ -4,6 +4,7 @@
  
 Check out the [Project Website](https://medhaupadhyay.github.io/Micropayment-Channel-Public-Website/)!
 
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/f4406e0b-a3d1-44b2-8044-a816f608e366" style="height:600px;">
 <br> </details>
 
 
@@ -53,7 +54,18 @@ Check out the [Project Website](https://medhaupadhyay.github.io/Micropayment-Cha
 
 <details>
 <summary>Waste Disposal Algorithm</summary>
- Check out the [demo](https://akashpalla.github.io/SYN100_test/index.html)
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/6c8e421a-7ef2-41ba-acc9-6d90be32507b" style="height:400px;">
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/4eb88d61-f5fa-4612-a12f-b61c75856a7a" style="height:400px;">
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/1e3cd897-26b6-4c3b-8bd6-39241bbe40ca" style="height:400px;">
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/57031355-996a-4b7e-af4d-ee0affd74e19" style="height:400px;">
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/273c9106-66f1-4ff3-8c72-e2b46b3133ee" style="height:400px;">
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/a8ff1f23-bd20-41e7-93ff-46032a43bbf0" style="height:400px;">
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/9f752ac3-7504-44fc-93cb-48d572f367ad" style="height:400px;">
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/b36394b1-933a-4c61-920e-20414a4a66d2" style="height:400px;">
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/c8ab7d61-490a-49ad-b7a2-719bba4a0a39" style="height:400px;">
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/3d42e23b-7e61-4cf8-a1b5-776e0d1613ae" style="height:400px;">
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/152c2a30-a70e-4d85-a3e6-3edfffea2fe2" style="height:400px;">
+ 
  <br>
 </details>
 <br>
