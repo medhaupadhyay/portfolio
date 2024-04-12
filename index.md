@@ -4,7 +4,7 @@
  
 Check out the [Project Website](https://medhaupadhyay.github.io/Micropayment-Channel-Public-Website/)!
 
-<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/f4406e0b-a3d1-44b2-8044-a816f608e366" style="height:600px;">
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/f4406e0b-a3d1-44b2-8044-a816f608e366">
 <br> </details>
 
 
