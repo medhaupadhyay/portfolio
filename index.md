@@ -101,22 +101,42 @@ coming soon!
  <br></details>
 
  <details>
-<summary> Cariuma Strategic Positioning </summary>
-about 
+<summary> Cariuma Positioning and Ad Targeting</summary>
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/f0fab1f3-0b0b-4639-8329-4b45b5966bf6" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/3901e5f0-297f-40cd-af0e-3abfdf107e2a" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/64b533d4-d496-42df-85e4-67544e734c39" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/a67157ee-0d1d-4f04-b453-b13732429c42" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/0f66d627-e62a-4823-9da0-d32bb41f6321" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/ca746308-731b-43e3-b50c-baae59126a75" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/bb4c0ecd-dcf7-48ad-bd88-cb521703924d" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/ca86896a-c371-4585-bbf3-141dd6daefeb" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/b633a9da-32c8-48ae-b043-e81cd0b3e125" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/7f13dbde-6883-4581-b256-ceb445ab37d1" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/5bae7795-3178-4067-889a-ed753030ff60" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/e440dcee-a87f-4361-9093-0f4227f68b76" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/868989ed-1d6c-40f9-84bc-d99df4eae4b8" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/f692d5bb-2cb6-4799-8210-3547c1b4761c" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/e8aa7033-ca3b-4d98-9f14-eb5c472357d5" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/f08d5dd9-b5f6-4552-a301-fbb6517c9fca" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/352c69e2-169e-49f4-bc68-e76f0b56efa9" >
+ 
  <br>
  <br></details>
 
  <details>
 <summary> MLB Draft Interest Build </summary>
-about 
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/9e038a74-b459-45f9-aeb2-62b9dfc00def" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/31c8c9a6-f657-47f6-a681-104095b26c86" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/1c69b95e-467b-4cd5-a238-46ddc866598c" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/9c5fcbd0-d51e-4e1b-8f4e-c220e010fd95" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/599afe71-f887-4a03-9b37-094bfaa51044" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/f41d4580-3aed-4c59-992a-0d91eb22e326" >
  <br>
  <br></details>
 
 <details>
 <summary> Escape From Alcatraz Promotional Social Media Campaign </summary>
 <img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/19c0857a-d983-45ab-a730-9b1d2e97caea" >
-![escape from alcatraz](https://github.com/medhaupadhyay/portfolio/assets/81603081/fc8cdea7-f808-4e48-9848-7840c200f65d)
-
 
  <br>
  <br></details>
