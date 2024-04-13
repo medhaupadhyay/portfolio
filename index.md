@@ -114,7 +114,9 @@ about
 
 <details>
 <summary> Escape From Alcatraz Promotional Social Media Campaign </summary>
-<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/3679daba-15c7-4404-b6af-7f44721cb87c" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/19c0857a-d983-45ab-a730-9b1d2e97caea" >
+![escape from alcatraz](https://github.com/medhaupadhyay/portfolio/assets/81603081/fc8cdea7-f808-4e48-9848-7840c200f65d)
+
 
  <br>
  <br></details>
