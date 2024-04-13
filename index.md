@@ -177,9 +177,25 @@ coming soon!
 
 # Articles 
 <details>
-<summary> UC San Diego’s Acceptance of Controversial TikToker shows Administration’s Disregard Toward Indian Women </summary>
-about 
- <br>
+<summary> UCSD’s Acceptance of Controversial TikToker shows Administration’s Disregard Toward Indian Women </summary>
+Even now, it’s difficult for me to describe the way my stomach dropped when I first heard that Avaneesh Kanala was coming to UC San Diego. At first glance, Kanala might seem like an average UCSD transfer student, but a quick search of his name will pull up the TikTok account where he spews racist and misogynistic “hot takes” to over 350,000 followers. I’ve had the misfortune of seeing his videos on my “For You Page” for the past couple years, but the thought of him coming here was truly gut-wrenching. <br>
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/eee191eb-a0cf-4dd4-8e25-720e794e3f25" > 
+<br>
+Kanala’s videos reduce women to mere objects, belittling everything about them from their bodies to their education to their culture, with targeted attacks on his female classmates. This kind of hateful content has always been aimed at people like me: Indian women who aspire to be independent and intelligent. For the past few years, Kanala’s TikTok content has been a painful but bearable rabbit hole that I would occasionally be sucked into. But now I am seeing demons from my screen materialize as Kanala steps onto the UCSD campus. My school has taken someone who can kindly be described as a troll, and presented them in the flesh; am I wrong to see this as a stinging betrayal? <br>
+I know that in the real world, there are battles that I will lose. There will be people who will spew hatred at me and try to push me down. But here? On my home turf? This is a knife in my back, a sinking feeling in my stomach. It is a loss of trust, a broken promise.  <br>
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/0a577368-d8ae-45c5-8dcc-0c8a11f54eaa" > <br>
+I have always believed UCSD when they claimed that this is “an inclusive community where all have the opportunity to thrive,” but the acceptance of Kanala has left me questioning the purity of their ideals. Until now, I considered this school a safe place, a place where my classmates and I would be protected and uplifted. The inclusive community here is one of the first things I bring up when people ask about my favorite parts of UCSD. I tell them how I turned down other schools because I didn’t want to be surrounded by toxic clout chasers who put down other people in some sort of twisted game. I tell them that UCSD promised me a place where I would be respected — where I would be valued. <br>
+ One case cannot make or break the culture of an entire university, but UCSD bringing a student like this onto campus would make their stance on inclusion infinitely clearer than thousands of memos ever could; after all, what good is a school that goes on and on about making sure that everyone “feels included in campus life” and then turns around and provides a welcome to someone who is actively spreading hateful and prejudiced messaging? Will the school only take action after these kinds of posts lead to physical violence against women? And what about the other hidden incels at UCSD who will take Kanala’s acceptance at UCSD as a green light for their own brands of misogyny and sexual violence? One case can easily serve as the straw that breaks the camel’s back. <br>
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/5432011d-bc1b-4582-8311-43d0e28cdce6" > <br>
+
+Kanala has also complained that “brown TikTok teamed up to get [him] kicked out of Purdue.” In this case, he is referring to the South Asian community on tiktok, many of whom claim that he was facing multiple sexual assault allegations. <br>
+Whether Kanala was expelled from Purdue or left of his own volition, he is placing the blame on a mass grassroots uprising. While the details of his situation are not publicly available, it is not unreasonable to believe that all those people had a strong reason to push him out of school. If he was truly “kicked out” of Purdue as he claims, why has UCSD welcomed him here? Has he made amends for his actions? <br>
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/6331d7f8-fdd9-4eb0-a664-0dbf09630b18" > <br>
+
+The administration has welcomed this man onto our campus, given him a dorm and a seat in our classes. But how are we, as students, supposed to welcome him into our Triton community? How do we make space for him without pushing out the Indian women that he has been actively undermining? I don’t think we can. I think that a line has been drawn in the sand and we must choose sides. <br>
+I can rest easier knowing that many will choose the clearly correct side, and it is comforting to see students leaping to denounce Kanala’s actions. Although it’s heartwarming to see everyone coming together like this, we all know that administration’s acceptance of Kanala reigns supreme. The truth of the matter is that UCSD’s acceptance of Kanala is serving as a strong form of validation for his hateful rhetoric. While this may not have been their intention, UCSD send the message that this student is a respectable citizen who lives by the Triton values. This, in turn, creates an uncomfortable, and potentially unsafe, environment for Indian women at UCSD. <br>
+To be absolutely clear, I do not know Avaneesh personally, nor am I advocating for any specific action to be taken against him. All I have to say is that I am deeply disappointed in my school. Something in our Triton community has broken, and I’m afraid it may be irreparable. <br>
+
  <br></details>
 
  <details>
