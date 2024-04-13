@@ -70,19 +70,33 @@
 # Marketing Projects 
 <details>
 <summary> Lexus GenZ Pitch </summary>
-about 
+coming soon! 
  <br>
  <br></details>
 
 <details>
 <summary> GPStyle Product Launch Plan </summary>
-about 
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/0ff2c009-76cc-4d41-85c5-a013d0219c78" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/739b5f3f-b2f6-4515-a6d9-c03819c6c4b6" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/9c44f818-0542-4d85-8cf3-e25cb42f6142" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/430aceef-8357-4f53-b355-437937ba1734" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/2cd6a6d3-c8f0-4d47-9ff1-4e26a04c63e0" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/39ef58e6-de70-4b12-9098-55606ea1828d" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/f2892c67-42ea-492d-8afd-e041d42dfec6" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/4195e3e3-798f-4c6d-8e8b-3420296ef00b" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/d144fa4d-5f94-4dbc-a452-8b1896561764" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/6478e706-b2f4-4ab4-84d9-d2976d8a0308" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/8fbb84a2-e9be-4dda-a49d-21f144c57ca5" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/8c6b8796-af98-4a2a-bd96-04d47dc78ae8" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/6b00408d-e421-4a3d-b4ec-d4428d84b1fb" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/6b4ec744-ff26-46d3-9a0e-0522499fe3f6" >
+
  <br>
  <br></details>
 
 <details>
 <summary> Forever 21 Brand Assessment </summary>
-about 
+coming soon! 
  <br>
  <br></details>
 
@@ -159,6 +173,3 @@ about
  <br>
  <br></details>
  <br>
-
- # Resume
-about
