@@ -114,19 +114,42 @@ about
 
 <details>
 <summary> Escape From Alcatraz Promotional Social Media Campaign </summary>
-about 
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/3679daba-15c7-4404-b6af-7f44721cb87c" >
+
  <br>
  <br></details>
 
  <details>
 <summary> Phoenix vs. Miami: Superbowl Economic Impact </summary>
-about 
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/49c424fa-c3d0-4b33-a60f-3e82d79b6025" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/8e0c8777-84af-473e-bda8-c878306b3943" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/f0fa86e4-dab3-45ed-8494-0cf236dacb47" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/f1772007-d5c9-4d83-b1fa-5f419e6ef025" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/de5713ad-959a-4913-a143-dfe32e510090" >
+
  <br>
  <br></details>
 
  <details>
-<summary> LA Memorial Coliseum Value Add </summary>
-about 
+<summary> MLS Fan Festival </summary>
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/a71e82ee-d6db-495d-b36b-e79c4d76af5e" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/dc82eeb0-b600-45c2-8308-ce0fc4ae9b86" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/0361b869-93a8-48d4-a200-f67a02ddfb39" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/d3aa03f7-e971-4792-b473-da93d3d0329e" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/d516ef39-7581-4ee6-a49c-9c48303fd304" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/28c355f5-ec95-4ddf-9cd4-4f5bfb5abd7e" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/de8aa07f-03f2-420a-8b68-ce59d7df49c3" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/5ca9ee28-b08d-4f55-b967-0bf8ca40318d" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/400f32e6-36bd-4efe-a8ef-d07557838716" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/c7c33c7b-c8f3-4bf4-b9c3-eef4bc3a70d9" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/a03518f4-6a5c-44a9-aa5d-8d86ef86b382" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/52368339-7024-43a9-8cfb-51e4ef9f5adb" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/0e874271-f8bb-4f99-999b-4252f6c284bb" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/846e82c6-78e1-471f-9afa-bbc04e06d692" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/fdc1c2e7-c383-4a9c-967c-5e57da978ec8" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/47f2a502-73bc-4678-8df2-537b787be14a" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/c72aafdd-ef35-405b-a361-9aa50a4514e8" >
+
  <br>
  <br></details> <br>
 
