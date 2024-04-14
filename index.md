@@ -68,11 +68,6 @@
 <br>
 
 # Marketing Projects 
-<details>
-<summary> Lexus GenZ Pitch </summary>
-coming soon! 
- <br>
- <br></details>
 
 <details>
 <summary> GPStyle Product Launch Plan </summary>
@@ -138,6 +133,19 @@ coming soon!
 <summary> Escape From Alcatraz Promotional Social Media Campaign </summary>
 <img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/19c0857a-d983-45ab-a730-9b1d2e97caea" >
 
+ <br>
+ <br></details>
+
+ <details>
+<summary> Lexus GenZ Pitch </summary>
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/e2015ddf-5b3c-45cf-927e-b3b451b1971b" >
+ <img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/2a5eb293-5d15-44b2-99a3-6994459ab4eb" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/261cb4a0-6a0f-4ddb-93ac-81bdf775fe99" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/040f474a-d3c9-4d35-9bd3-71ff99b75c12" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/9b68ba17-b813-480d-8fc5-2478195c6c44" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/21a36c6a-0592-48d9-939d-928a133ac484" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/8dc156bf-9f0f-459f-88f3-97a4356e7605" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/fd9c694c-1501-4887-912b-71814e913b36" >
  <br>
  <br></details>
 
