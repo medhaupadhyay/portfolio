@@ -91,7 +91,33 @@
 
 <details>
 <summary> Forever 21 Brand Assessment </summary>
-coming soon! 
+ <img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/b6f492fe-35e9-47ab-8a7d-9b60eb83137b" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/4630e62c-fad6-448c-a0f7-960058ea50cb" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/a887ee26-c5e5-4f58-996b-3b32a293080f" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/9542061b-d72c-488e-a50f-5fdfb9a0ba72" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/1534f896-20aa-4733-b0fd-851a0e7240e3" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/061c297b-bba9-4828-b0c1-9e44b4ebac21" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/981b5833-07e0-4fa9-87e1-8b796e148570" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/04af49bb-ee5c-4ab0-9584-47ff04976567" >
+ <img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/372e9597-913b-478d-bff9-8daaf6f70c64" >
+ <img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/d229284e-e8de-4e68-82a2-85d95d25b9e8" >
+ <img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/72ca71c1-c691-4801-88fc-a892e4d3d626" >
+ <img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/9041586a-a7cd-419e-bfee-b0069bccd8a0" >
+ <img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/b4b17e1f-c7ce-4ad4-ad87-32b9eb2bd8f9" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/124aa7d2-a27a-4e43-94de-60cfbfda3f02" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/7e892b25-f408-4b7e-946b-939d90dd81d9" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/35f9eebe-0cb0-45a6-af9e-e33affe0e5ef" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/23f5ba91-621d-4afa-801e-41560761f110" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/270b18de-5b91-414d-8ce9-8df5c547d80c" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/e68b8d6b-d305-4340-b2ad-54bd10bd89f5" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/b3372493-da2f-4bb6-b11c-77d0ae51bf3d" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/4155e8b9-4c24-4ae3-a01d-c50a8a98ccd7" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/6637d022-77dd-406a-8ac3-a1a82d475a7a" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/f2b80916-c6d2-40c8-9a89-6f960004dbed" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/797536dd-fdf3-44aa-b9ad-274d1accf4ae" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/7cc39798-9852-4d13-9115-43b883c99317" >
+<img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/60502c03-2813-43f0-b008-f195ba75eea8" >
+
  <br>
  <br></details>
 
