@@ -65,6 +65,17 @@
  
  <br>
 </details>
+
+<details>
+<summary>Nobel Prize Trends <a href="https://medhaupadhyay.github.io/Micropayment-Channel-Public-Website/"> (Project Website!)</a></summary>
+Alfred Nobel was a Swedish scientist and industrialist; he was most well-known for inventing dynamite. When he died in 1896, he bequeathed all his assets to be used for the establishment of five prizes in the fields of Physics, Chemistry, Physiology (now known as Medicine), Literature, and Peace. The first Nobel prizes were awarded in 1901 and a sixth prize for Economics was added in 1968. While the process of deciding a winner differs slightly for each category, a large chunk of the decision-making happens within the Nobel Committee. This dashboard explores various trends among Nobel prize winners, especially surrounding the number of winners over time, the gender of the winners, and the countries that the winners are from. This dashboard utilizes data spanning from 1901 to 2022. <br>
+
+
+
+
+ 
+ <br>
+</details>
 <br>
 
 # Marketing Projects 
