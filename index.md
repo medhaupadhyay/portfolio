@@ -88,6 +88,7 @@ Alfred Nobel was a Swedish scientist and industrialist; he was most well-known f
 <img src="https://github.com/user-attachments/assets/146874c7-a1f1-4a74-b45b-de5a19cb257a" >
 <img src="https://github.com/user-attachments/assets/82ac1345-f996-4fd0-b2f0-043ccbb35dc1" >
 <img src="https://github.com/user-attachments/assets/8feffd12-854f-4491-8761-77c1936e7d71" >
+<img src="https://github.com/user-attachments/assets/dbc4d379-670c-4cdf-9471-f0d41702292e" >
 
  <br>
  <br></details>
