@@ -81,6 +81,18 @@ Alfred Nobel was a Swedish scientist and industrialist; he was most well-known f
 # Marketing Projects 
 
 <details>
+<summary> HKN Marketing Director</summary>
+   I served as Marketing Director for the Kappa Psi chapter of Eta Kappa Nu (HKN), the honor society of the Institute of Electrical and Electronics Engineers (IEEE). Student members are selected on the basis of scholastic standing, character, and leadership. Members provide free tutoring and host a variety of workshops and events to promote technical, professional, and academic development. <br>
+   My role involved managing the UCSD HKN Instagram account, LinkedIn, email newsletter, and overall content calendar and style guide. I also created marketing materials for large-scale events such as the annual General Body Meeting (GBM) and Hardware Hackathon (Hard Hack). 
+<img src="https://github.com/user-attachments/assets/f0ac8a4d-2be0-4c59-a852-b205b7395a0e" >
+<img src="https://github.com/user-attachments/assets/146874c7-a1f1-4a74-b45b-de5a19cb257a" >
+<img src="https://github.com/user-attachments/assets/82ac1345-f996-4fd0-b2f0-043ccbb35dc1" >
+<img src="https://github.com/user-attachments/assets/8feffd12-854f-4491-8761-77c1936e7d71" >
+
+ <br>
+ <br></details>
+
+<details>
 <summary> GPStyle Product Launch Plan </summary>
 <img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/0ff2c009-76cc-4d41-85c5-a013d0219c78" >
 <img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/739b5f3f-b2f6-4515-a6d9-c03819c6c4b6" >
@@ -152,18 +164,6 @@ Alfred Nobel was a Swedish scientist and industrialist; he was most well-known f
 <img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/f08d5dd9-b5f6-4552-a301-fbb6517c9fca" >
 <img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/352c69e2-169e-49f4-bc68-e76f0b56efa9" >
  
- <br>
- <br></details>
-
-  <details>
-<summary> HKN Marketing Director</summary>
-   I served as Marketing Director for the Kappa Psi chapter of Eta Kappa Nu (HKN), the honor society of the Institute of Electrical and Electronics Engineers (IEEE). Student members are selected on the basis of scholastic standing, character, and leadership. Members provide free tutoring and host a variety of workshops and events to promote technical, professional, and academic development. <br>
-   My role involved managing the UCSD HKN Instagram account, LinkedIn, email newsletter, and overall content calendar and style guide. I also created marketing materials for large-scale events such as the annual General Body Meeting (GBM) and Hardware Hackathon (Hard Hack). 
-<img src="https://github.com/user-attachments/assets/f0ac8a4d-2be0-4c59-a852-b205b7395a0e" >
-<img src="https://github.com/user-attachments/assets/146874c7-a1f1-4a74-b45b-de5a19cb257a" >
-<img src="https://github.com/user-attachments/assets/82ac1345-f996-4fd0-b2f0-043ccbb35dc1" >
-<img src="https://github.com/user-attachments/assets/8feffd12-854f-4491-8761-77c1936e7d71" >
-
  <br>
  <br></details>
 
