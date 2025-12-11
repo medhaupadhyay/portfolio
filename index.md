@@ -81,6 +81,10 @@ Alfred Nobel was a Swedish scientist and industrialist; he was most well-known f
 # Marketing Projects 
 
 <details>
+<summary> <a href="https://medhaupadhyay.github.io/Micropayment-Channel-Public-Website/"> Product Marketing Specialist at Mirantis</a></summary>
+<br> </details>
+
+<details>
 <summary> HKN Marketing Director</summary>
    I served as Marketing Director for the Kappa Psi chapter of Eta Kappa Nu (HKN), the honor society of the Institute of Electrical and Electronics Engineers (IEEE). Student members are selected on the basis of scholastic standing, character, and leadership. Members provide free tutoring and host a variety of workshops and events to promote technical, professional, and academic development. <br>
    My role involved managing the UCSD HKN Instagram account, LinkedIn, email newsletter, and overall content calendar and style guide. I also created marketing materials for large-scale events such as the annual General Body Meeting (GBM) and Hardware Hackathon (Hard Hack). 
