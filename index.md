@@ -191,7 +191,7 @@ Alfred Nobel was a Swedish scientist and industrialist; he was most well-known f
  <br></details>
 
  <details>
-<summary> Lexus GenZ Pitch </summary>
+<summary> Team One Lexus GenZ Pitch </summary>
 <img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/e2015ddf-5b3c-45cf-927e-b3b451b1971b" >
  <img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/2a5eb293-5d15-44b2-99a3-6994459ab4eb" >
 <img src="https://github.com/medhaupadhyay/portfolio/assets/81603081/261cb4a0-6a0f-4ddb-93ac-81bdf775fe99" >
