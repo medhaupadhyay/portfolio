@@ -81,7 +81,7 @@ Alfred Nobel was a Swedish scientist and industrialist; he was most well-known f
 # Marketing Projects 
 
 <details>
-<summary> <a href="https://medhaupadhyay.github.io/Micropayment-Channel-Public-Website/"> Product Marketing Specialist at Mirantis</a></summary>
+<summary> <a href="https://www.mirantis.com/blog/authors/medha-upadhyay/"> Product Marketing Specialist at Mirantis</a></summary>
 <br> </details>
 
 <details>
