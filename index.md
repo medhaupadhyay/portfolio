@@ -2,11 +2,13 @@
 
 <details>
 <summary> <a href="https://www.mirantis.com/blog/authors/medha-upadhyay/"> Product Marketing Specialist at Mirantis</a></summary>
+   <a href="https://www.mirantis.com/blog/ai-focused-edge-inference-use-cases-and-guide-for-enterprise/"> Edge AI Inference: Use Cases and Guide <br>
+   <a href="https://www.mirantis.com/blog/building-a-sustainable-edge-monitoring-system-for-coral-reefs-using-k0s-nats-and-raspberry-pi-clusters/"> Arkatech NGO Case Study <br>
+
    <a href="https://www.mirantis.com/blog/ai-infrastructure-stack/"> AI Infrastructure Stack: Essentials and Guidelines <br>
    <a href="https://www.mirantis.com/blog/ai-development-platforms-a-complete-guide/"> AI Development Platforms: A Complete Guide <br>
    <a href="https://www.mirantis.com/blog/why-use-ai-infrastructure-as-a-service-/"> Why Use AI Infrastructure as a Service <br>
    <a href="https://www.mirantis.com/blog/how-containerization-is-revolutionizing-data-science-workflows/"> How Containerization is Revolutionizing Data Science Workflows <br>
-   <a href="https://www.mirantis.com/blog/ai-focused-edge-inference-use-cases-and-guide-for-enterprise/"> Edge AI Inference: Use Cases and Guide <br>
    <a href="https://www.mirantis.com/blog/ai-mlops-building-the-right-infrastructure/"> AI MLOps: Building the Right Infrastructure <br>
    <a href="https://www.mirantis.com/blog/model-deployment-and-orchestration-the-definitive-guide/"> Model Deployment and Orchestration: The Definitive Guide <br>
    <a href="https://www.mirantis.com/blog/the-complete-guide-to-edge-computing-architecture/"> The Complete Guide to Edge COmputing Architecture <br>
