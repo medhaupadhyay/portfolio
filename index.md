@@ -2,6 +2,7 @@
 
 <details>
 <summary> <a href="https://www.mirantis.com/blog/authors/medha-upadhyay/"> Product Marketing Specialist at Mirantis</a></summary>
+   <a href="https://www.mirantis.com/blog/authors/medha-upadhyay/"> Product Marketing Specialist at Mirantis
 <br> </details>
 
 <details>
