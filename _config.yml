@@ -8,7 +8,7 @@ plugins:
 #- jekyll-remote-theme
 
 title: [Medha Upadhyay]
-description: [Hi! I’m a data science master's student at UC Berkeley and I graduated from UCSD with a major in data science and a minor in marketing. Welcome to my portfolio!] 
+description: [Hi! I’m a data science master's student at UC Berkeley who graduated from UCSD with a major in data science and a minor in marketing. Welcome to my portfolio!] 
 
 sidebar:
   - name: GitHub
