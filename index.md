@@ -11,7 +11,7 @@
    <a href="https://www.mirantis.com/blog/how-containerization-is-revolutionizing-data-science-workflows/"> How Containerization is Revolutionizing Data Science Workflows </a><br>
    <a href="https://www.mirantis.com/blog/ai-mlops-building-the-right-infrastructure/"> AI MLOps: Building the Right Infrastructure </a><br>
    <a href="https://www.mirantis.com/blog/model-deployment-and-orchestration-the-definitive-guide/"> Model Deployment and Orchestration: The Definitive Guide </a><br>
-   <a href="https://www.mirantis.com/blog/the-complete-guide-to-edge-computing-architecture/"> The Complete Guide to Edge COmputing Architecture </a><br>
+   <a href="https://www.mirantis.com/blog/the-complete-guide-to-edge-computing-architecture/"> The Complete Guide to Edge Computing Architecture </a><br>
 
 <br> </details>
 
